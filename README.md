@@ -1,3 +1,4 @@
+Uzdevums 9a
 Programma izveidota valodā Rust
 Repozitorija pieejama https://github.com/Konseyy/contrast_stretcher
 
